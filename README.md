@@ -26,4 +26,4 @@ Source code selebihnya anda boleh ambil di sini » [exploit-db]()
 2). Mencari index of pada suatu website
 - [`*https://domain.com/*`](?) lalu tambahkan index of menjadi [`*site:https://domain.com/index of*`](?)
 
-  - Selebihnya silahkan lihat disini » [`click >///<`](/dorking/)
+  - Selebihnya silahkan lihat disini » [click me onii chan >///<](/dorking/)
