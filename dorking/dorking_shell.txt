@@ -1,1 +1,23 @@
+intitle:"- WSO 4.2.6"
 
+intitle:index of wso.php intext:64k 
+intitle:index of lux.php intext:64k
+intitle:index of mego.php Intex:64k 
+intitle:index of raw.php intext:64k intitle:index of H3IIO.php intext:64k 
+intitle:index of H3IIX.php intext:48k intitle:index of shell.php intext:64k 
+intitle:index of cgi.php intext:64k intitle:index of DrugO.php intext:64k intitle:index of xleet.php intext:48k 
+intitle:index of cgi.php intext:64k intext:drwxr intitle:./Trenggalek Ma a ext:php intext:drwxr 
+intitle:Mr.Bumblebee ext:php intext:#1 SMP 
+intitle:index of inurl:/img/shell.php 
+intitle:Mini Shell intext:/public_html/admin
+intitle:Private intext:images/ intext:drwxr site:. intext:"Linux" 
+intitle:"Uploader" letype:php 
+intitle:"Mini Shell" letype:php intitle:"Mini Shell" letype:phtml 
+intitle:"IndoXploit" letype:php
+intext:"Priv8" letype:php inurl:/images/ 
+intitle:sh3|l ext:php intitle:sh3|l ext:php "/public_html/" 
+intitle:"IndoXploit" letype:php intitle:"IndoXploit" intext:"public_html" letype:php 
+intitle:"IndoXploit" intext:"mass deface" letype:php
+intitle:"IndoXploit" intext:"mass delete" letype:php 
+intitle:"IndoXploit" intext:"jumping" letype:php intitle:"IndoXploit" intext:"con g" letype:php 
+intitle:"Marijuana shell"
