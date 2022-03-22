@@ -27,3 +27,7 @@ Source code selebihnya anda boleh ambil di sini » [exploit-db](https://www.expl
 - [`*https://domain.com/*`](?) lalu tambahkan index of menjadi [`*site:https://domain.com/index of*`](?)
 
   - Selebihnya silahkan lihat disini » [click me onii chan >///<](/dorking/)
+
+
+
+amamammammqmq
